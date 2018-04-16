@@ -25,7 +25,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your First Docker App'
+      msg: 'Welcome to Your First Docker App Update'
     }
   }
 }
